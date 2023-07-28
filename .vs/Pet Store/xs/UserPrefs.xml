@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{631CFC5D-461F-462F-800F-37C5A8AC08A7}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Product.cs">
+    <Files>
+      <File FileName="Program.cs" Line="4" Column="1" />
+      <File FileName="Product.cs" Line="5" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pet Store">
+            <Node name="Pet Store">
+              <Node name="Product.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Pet_220Store PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
