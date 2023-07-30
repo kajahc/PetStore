@@ -13,3 +13,18 @@
 /Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/Pet Store/SD Class Excercise 1 - KM/Pet Store/obj/Debug/net7.0/Pet Store.pdb
 /Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/Pet Store/SD Class Excercise 1 - KM/Pet Store/obj/Debug/net7.0/Pet Store.genruntimeconfig.cache
 /Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/Pet Store/SD Class Excercise 1 - KM/Pet Store/obj/Debug/net7.0/ref/Pet Store.dll
+/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/bin/Debug/net7.0/Pet Store
+/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/bin/Debug/net7.0/Pet Store.deps.json
+/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/bin/Debug/net7.0/Pet Store.runtimeconfig.json
+/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/bin/Debug/net7.0/Pet Store.dll
+/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/bin/Debug/net7.0/Pet Store.pdb
+/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/obj/Debug/net7.0/Pet Store.csproj.AssemblyReference.cache
+/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/obj/Debug/net7.0/Pet Store.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/obj/Debug/net7.0/Pet Store.AssemblyInfoInputs.cache
+/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/obj/Debug/net7.0/Pet Store.AssemblyInfo.cs
+/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/obj/Debug/net7.0/Pet Store.csproj.CoreCompileInputs.cache
+/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/obj/Debug/net7.0/Pet Store.dll
+/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/obj/Debug/net7.0/refint/Pet Store.dll
+/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/obj/Debug/net7.0/Pet Store.pdb
+/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/obj/Debug/net7.0/Pet Store.genruntimeconfig.cache
+/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/obj/Debug/net7.0/ref/Pet Store.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/Pet Store/SD Class Excercise 1 - KM/Pet Store/Pet Store.csproj": {}
+    "/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/Pet Store.csproj": {}
   },
   "projects": {
-    "/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/Pet Store/SD Class Excercise 1 - KM/Pet Store/Pet Store.csproj": {
+    "/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/Pet Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/Pet Store/SD Class Excercise 1 - KM/Pet Store/Pet Store.csproj",
+        "projectUniqueName": "/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/Pet Store.csproj",
         "projectName": "Pet Store",
-        "projectPath": "/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/Pet Store/SD Class Excercise 1 - KM/Pet Store/Pet Store.csproj",
+        "projectPath": "/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/Pet Store.csproj",
         "packagesPath": "/Users/kmeans22/.nuget/packages/",
-        "outputPath": "/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/Pet Store/SD Class Excercise 1 - KM/Pet Store/obj/",
+        "outputPath": "/Users/kmeans22/Desktop/CodeLouisville/SD_Path_July_2023/Source/Repos/PetStore/PetStore1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kmeans22/.nuget/NuGet/NuGet.Config"
