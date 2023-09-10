@@ -36,6 +36,26 @@ namespace Pet_Store
         public string Material
         { get; set; }
     }
+
+    class ProductLogic
+    {
+        private List<Product> _products;
+
+        public ProductLogic() // Constructor
+        {
+            _products = new List<Product>();
+        }
+
+        public void AddProduct(Product product) // (argumentType argument)
+        {
+            _products.Add(product); // add product to the Product List
+        }
+
+        List<Product> GetAllProducts()
+        {
+            return _products;
+        }
+    }
 }
 
 /* Add a product -> create object -> print to console; going to need Parse methods

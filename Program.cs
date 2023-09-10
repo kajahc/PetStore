@@ -5,7 +5,7 @@ using System.Diagnostics.Metrics;
 using System.Runtime.Intrinsics.X86;
 using System.Text.Json;
 using Pet_Store;
-
+var productLogic = new ProductLogic(); // create new instance of ProductLogic
 string userInput = "7";
 
 do
@@ -43,7 +43,9 @@ do
         string KittenEdible = Console.ReadLine();
         MeowMix.KittenFood = KittenEdible.ToLower() == "yes";// assigning property to result of comparison 
 
-        Console.WriteLine(JsonSerializer.Serialize(MeowMix));
+        AddProduct(MeowMix);
+        Console.WriteLine("MeowMix was added successfully!");
+        //Console.WriteLine(JsonSerializer.Serialize(MeowMix));
 
 
     }
