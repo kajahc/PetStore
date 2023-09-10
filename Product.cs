@@ -37,7 +37,7 @@ namespace Pet_Store
         { get; set; }
     }
 
-    class ProductLogic
+    public class ProductLogic
     {
         private List<Product> _products;
 
@@ -46,12 +46,13 @@ namespace Pet_Store
             _products = new List<Product>();
         }
 
-        public void AddProduct(Product product) // (argumentType argument)
+
+        public void AddProduct(Product product) // (argumentType argument) = addproduct method 
         {
             _products.Add(product); // add product to the Product List
         }
 
-        List<Product> GetAllProducts()
+        public List<Product> GetAllProducts()
         {
             return _products;
         }

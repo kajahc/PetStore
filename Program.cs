@@ -8,6 +8,7 @@ using Pet_Store;
 var productLogic = new ProductLogic(); // create new instance of ProductLogic
 string userInput = "7";
 
+
 do
 {
     Console.WriteLine("Press 1 to add a product");
@@ -43,15 +44,24 @@ do
         string KittenEdible = Console.ReadLine();
         MeowMix.KittenFood = KittenEdible.ToLower() == "yes";// assigning property to result of comparison 
 
-        AddProduct(MeowMix);
-        Console.WriteLine("MeowMix was added successfully!");
-        //Console.WriteLine(JsonSerializer.Serialize(MeowMix));
+        void AddProduct(Product product) // (argumentType argument) = addproduct method 
+        {
+            //_products.Add(product); // add product to the Product List
+        }
+        Console.WriteLine($" Product was added!");
 
 
     }
 
 
+
 }
 while (userInput.ToLower() != "exit"); // do between 11-24 until not true
 
+
+//AddProduct();
 //Console.ReadLine() <- default output is a str
+/*
+ 
+
+ */
